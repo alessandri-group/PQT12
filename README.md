@@ -13,7 +13,6 @@ This repository includes:
 
 - GROMACS `.mdp` files used for energy minimization, equilibration
 - Representative initial configuration files
-- Simulation protocols and workflow descriptions
 - Example run scripts, where applicable
 
 The repository is intended to document the simulation setup and parameters used in the study.
@@ -30,9 +29,6 @@ The repository is intended to document the simulation setup and parameters used 
 ├── initial_configurations/
 │   └── 
 ├── final_configurations/
-│
-├── protocols/
-│   └── simulation_protocol.md
 │
 ├── scripts/
 │   └── example_run.sh
