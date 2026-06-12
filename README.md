@@ -24,8 +24,9 @@ The repository is intended to document the simulation setup and parameters used 
 .
 ├── mdp_files/
 │   ├── minimization.mdp
-│   └── nvt_equilibration.mdp
+│   └── npt_equilibration.mdp
 │
+├── forcefield/
 ├── initial_configurations/
 │   └── 
 ├── final_configurations/
