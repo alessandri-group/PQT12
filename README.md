@@ -1,8 +1,8 @@
-# Simulation Inputs and Protocols for [Manuscript Title]
+# Simulation Inputs and Protocols for `Thermally Controlled Polymorphism and Doping Gradients in Poly(dodecyl-quaterthiophene) (PQT) for Functionally Graded Organic Thermoelectrics`
 
 This repository contains simulation input files and protocols associated with the manuscript:
 
-**[Thermally Controlled Polymorphism and Doping Gradients in Poly(dodecyl-quaterthiophene) (PQT) for Functionally Graded Organic Thermoelectrics]**  
+**Thermally Controlled Polymorphism and Doping Gradients in Poly(dodecyl-quaterthiophene) (PQT) for Functionally Graded Organic Thermoelectrics**  
 
 
 The purpose of this repository is to provide the key files needed to reproduce the molecular dynamics simulation setup described in the manuscript.
