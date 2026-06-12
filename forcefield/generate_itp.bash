@@ -8,5 +8,4 @@ conda activate polyply
 POLYMER="PQT12"
 N=20
 
-polyply gen_params -f /media/juhae/DATA/gromacs/setup/ffs/${POLYMER}.martini3.v1.4.ff /media/juhae/DATA/gromacs/setup/ffs/citations.bib -name ${POLYMER} -seq ${POLYM\
-ER}:${N} -o ${POLYMER}_n${N}.itp
+polyply gen_params -f ./${POLYMER}.martini3.v1.4.ff -name ${POLYMER} -seq ${POLYMER}:${N} -o ${POLYMER}_n${N}.itp
