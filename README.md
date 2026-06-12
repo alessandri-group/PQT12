@@ -11,7 +11,7 @@ The purpose of this repository is to provide the key files needed to reproduce t
 
 This repository includes:
 
-- GROMACS `.mdp` files used for energy minimization, equilibration, and production simulations
+- GROMACS `.mdp` files used for energy minimization, equilibration
 - Representative initial configuration files
 - Simulation protocols and workflow descriptions
 - Example run scripts, where applicable
