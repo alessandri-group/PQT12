@@ -1,10 +1,5 @@
-; STANDARD MD INPUT OPTIONS FOR MARTINI 3.x
-; Revision and adaptation to em/NVT/etc. by RA 10 Jul 2024
-;
-; for use with GROMACS 5 or later versions
-
-; TIMESTEP IN MARTINI 
-; Default timestep of 20 fs. 
+; minimization.mdp - GROMACS energy minimization input parameter file
+; Run-control parameter
 
 define                   = -DFLEXIBLE
 integrator               = steep
