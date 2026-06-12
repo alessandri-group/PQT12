@@ -1,5 +1,3 @@
-; /home/juhae/.local/bin/polyply gen_params -f /media/juhae/DATA/gromacs/setup/ffs/PQT12.martini3.v1.4.ff /media/juhae/DATA/gromacs/setup/ffs/citations.bib -name PQT12 -seq PQT12:20 -o PQT12_n20.itp
-
 ; Please cite the following papers:
 ; Grunewald, F; Alessandri, R; Kroon, P C; Monticelli, L; Souza, P C; Marrink, S J;  Nature Communications 2022; 10.1038/s41467-021-27627-4
 ; Park, J; Alessandri, R; de Pablo, J J;  TBD 2024; 10.1021/DOI
