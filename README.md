@@ -30,7 +30,5 @@ The repository is intended to document the simulation setup and parameters used 
 │   └── 
 ├── final_configurations/
 │
-├── scripts/
-│   └── example_run.sh
-│
+├── example_run.sh
 └── README.md
