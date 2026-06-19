@@ -19,9 +19,9 @@ fi
 
 # Min and eq                                                                                                                                               
 if [ ! -f "${POLYMER}_melt_n${N}_${replica}.gro" ] ; then
-  gmx grompp -normvsbds -p system_${POLYMER}_melt_n${N}.top -c starting_packing.gro -f ../M3_mdps/martini_v3.x_em.mdp -o 1-min
+  gmx grompp -normvsbds -p system_${POLYMER}_melt_n${N}.top -c starting_packing.gro -f ./mdp_files/minimization.mdp -o 1-min
   gmx mdrun -v -deffnm 1-min -nt 2                                                                                                                      
-  gmx grompp -normvsbds -p system_${POLYMER}_melt_n${N}.top -c 1-min.gro -f ../M3_mdps/martini_v3.x_NPT_ramping.mdp -o 2-NPT -maxwarn 2
+  gmx grompp -normvsbds -p system_${POLYMER}_melt_n${N}.top -c 1-min.gro -f ./mdp_files/npt_equilibration.mdp -o 2-NPT -maxwarn 2
   gmx mdrun -v -deffnm 2-NPT -nt 2
 fi
 
