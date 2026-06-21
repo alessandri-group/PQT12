@@ -60,3 +60,7 @@ If you use the files or protocols in this repository, please cite the manuscript
   url     = {https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15004847/v1}
 }
 ```
+
+## License
+
+This project is licensed under the Apache License 2.0 — see the [LICENSE](LICENSE) file for details.
