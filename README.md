@@ -2,7 +2,7 @@
 
 Simulation input files and protocols associated with the manuscript:
 
-J.-H. Chen, T. Ma, J. Park, R. Alessandri, B. X. Dong, Y. Zhao, N. Shan, C. J. Takacs, J. J. de Pablo, S. N. Patel. "Thermally Controlled Polymorphism and Doping Gradients in Poly(dodecyl-quaterthiophene) (PQT) for Functionally Graded Organic Thermoelectrics", *ChemRxiv* **2026**, [10.26434/chemrxiv.15004847](https://doi.org/10.26434/chemrxiv.15004847/v1).
+J.-H. Chen, T. Ma, J. Park, R. Alessandri, B. X. Dong, Y. Zhao, Z. Liu, N. Shan, C. J. Takacs, S. Wang, J. J. de Pablo, S. N. Patel. "Thermally Controlled Polymorphism and Doping Gradients in Poly(dodecyl-quaterthiophene) (PQT) for Functionally Graded Organic Thermoelectrics", *Macromolecules* (2026) 59 (17): 9862-9876, [https://doi.org/10.1021/acs.macromol.6c01727](https://doi.org/10.1021/acs.macromol.6c01727).
 
 The purpose of this repository is to document and provide the key files needed to reproduce the
 coarse-grained molecular dynamics simulation setup described in the manuscript.
@@ -51,15 +51,13 @@ The simulation setup and analysis was built and run with:
 If you use the files or protocols in this repository, please cite the manuscript:
 
 ```bibtex
-@article{Chen2026PQT,
-  author  = {Jie-Hao Chen and Tengzhou Ma and Juhae Park and Riccardo Alessandri and Ban Xuan Dong and Yunhao Zhao and Naisong Shan and Christopher J. Takacs and Juan J. de Pablo and Shrayesh N. Patel},
-  title   = {Thermally Controlled Polymorphism and Doping Gradients in Poly(dodecyl-quaterthiophene) (PQT) for Functionally Graded Organic Thermoelectrics},
-  journal = {ChemRxiv},
-  year    = {2026},
-  doi     = {10.26434/chemrxiv.15004847/v1},
-  url     = {https://chemrxiv.org/doi/abs/10.26434/chemrxiv.15004847/v1}
-}
-```
+@article{chen2026thermally,
+  title={Thermally Controlled Polymorphism and Doping Gradients in Poly (didodecyl-quaterthiophene) for Functionally Graded Organic Thermoelectrics},
+  author={Chen, Jie-Hao and Ma, Tengzhou and Park, Juhae and Alessandri, Riccardo and Dong, Ban Xuan and Zhao, Yunhao and Liu, Zhichang and Shan, Naisong and Takacs, Christopher J and Wang, Sihong and others},
+  journal={Macromolecules},
+  year={2026},
+  publisher={ACS Publications}
+}```
 
 ## License
 
