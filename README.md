@@ -57,7 +57,8 @@ If you use the files or protocols in this repository, please cite the manuscript
   journal={Macromolecules},
   year={2026},
   publisher={ACS Publications}
-}```
+}
+```
 
 ## License
 
